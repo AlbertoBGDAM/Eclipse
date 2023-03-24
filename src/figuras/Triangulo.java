@@ -23,8 +23,7 @@ return lado2;
 }
 
 public double getLado3(){
-return lado3;
-}
+return lado3;}
 
 public void setLado1(double lado1){
 this.lado1 = lado1;
